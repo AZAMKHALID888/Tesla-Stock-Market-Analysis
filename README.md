@@ -11,7 +11,7 @@ Insights and conclusions: insights into market performance and trends are drawn 
 Tesla has been one of the most talked-about companies in recent years, with its stock market performance being a popular topic among investors and analysts. This project aims to provide a detailed analysis of Tesla's stock market performance, using Python and data visualization techniques to present the findings in a clear and concise manner.
 
 # Data Source
-The data used in this analysis was obtained from Yahoo Finance, covering the period from 2018 to present.
+The data used in this analysis was obtained from Yahoo Finance, covering the period from 2010 to present.
 
 # Requirements
 To run this project, you will need the following:
